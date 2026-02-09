@@ -1,0 +1,3 @@
+text.txt
+What is a TXT file?
+TXT file stands for 'Text File Document'. TXT is a basic text file format that stores plain text and is a widely compatible text format. A TXT file consists of text without complex formatting or styling. Therefore, they are easy to create and edit. Also, avoiding styling makes their file sizes small compared to other file formats. It was developed in the 1960s. Apart from storing basic text information, They are used to store more complex data, such as code and scripts.
