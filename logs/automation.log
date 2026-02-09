@@ -1,0 +1,6 @@
+2026-02-09 11:14:40,797 - INFO - Started folder monitoring
+2026-02-09 11:14:46,133 - INFO - New file detected: input_folder\text.txt
+2026-02-09 11:14:51,137 - ERROR - File is empty
+2026-02-09 11:15:02,424 - INFO - New file detected: input_folder\test.txt
+2026-02-09 11:15:07,434 - INFO - Lines count: 3
+2026-02-09 11:15:07,438 - INFO - File processed and moved successfully
